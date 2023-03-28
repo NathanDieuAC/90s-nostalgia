@@ -20,11 +20,14 @@ body
     box-sizing: border-box;
 }
 
-
+img
+{
+    width: 100%;
+}
 
 .logo
 {
-    width: 160px;
+    width: 160Spx;
     align-content: center;
 }
 
@@ -112,7 +115,7 @@ a:focus
 
 .hero  h1 
 {
-    width: ;
+    width: 75%;
     padding: .5em;
     margin: auto;
     color: white;
@@ -130,4 +133,19 @@ a:focus
     align-content: center;
 }
 
+
+figcaption
+{
+    color: white;
+    font-style: italic ;
+}
+
+.icon
+{
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 0;
+    padding-right: 0;
+    width: 260px;
+}
 
