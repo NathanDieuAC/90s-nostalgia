@@ -31,3 +31,11 @@ img
     align-content: center;
 }
 
+.wrapper 
+{
+    max-width: 900px;
+    margin: auto;
+    padding-top: 1.5em;
+    padding-left: 0;
+    padding-right: 0;
+}
