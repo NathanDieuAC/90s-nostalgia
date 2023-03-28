@@ -49,15 +49,19 @@ header
 }
 
 
-nav ul li
+nav > ul > li
 {
     list-style: none;
     display: inline;
-    padding: 0px;   
+    padding: 0px;  
+    border-radius: 8px; 
 }
 
-nav
+nav 
 {
     text-align: center;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    padding-left: .75em;
+    padding-right: .75em
 }
-
