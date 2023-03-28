@@ -20,10 +20,7 @@ body
     box-sizing: border-box;
 }
 
-img
-{
-    width: 100%;
-}
+
 
 .logo
 {
@@ -115,7 +112,7 @@ a:focus
 
 .hero  h1 
 {
-    width: 75%;
+    width: ;
     padding: .5em;
     margin: auto;
     color: white;
@@ -128,4 +125,9 @@ a:focus
 .trends
 {
     background-color: purple;
+    width: 22%;
+    display: table-row;
+    align-content: center;
 }
+
+
